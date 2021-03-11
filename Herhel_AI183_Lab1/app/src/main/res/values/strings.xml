@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Herhel_AI183_Lab1</string>
+    <string name="label_enter_name">Enter your name</string>
+    <string name="label_hello_noname">Hello, stranger!</string>
+    <string name="label_hello_name">Hello, %s!</string>
+    <string name="button">Button</string>
+</resources>

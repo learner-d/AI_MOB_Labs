@@ -1,0 +1,6 @@
+<resources>
+    <string name="label_enter_name">Введіть своє ім\'я</string>
+    <string name="label_hello_noname">Привіт, незнайомце!</string>
+    <string name="label_hello_name">Привіт, %s!</string>
+    <string name="button">Кнопка</string>
+</resources>
