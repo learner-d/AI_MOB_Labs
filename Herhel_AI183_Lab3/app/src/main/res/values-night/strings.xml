@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textview_name_placeholder">Name placeholder</string>
+    <string name="textview_email_placeholder">Email placeholder</string>
+    <string name="textview_phone_placeholder">Phone placeholder</string>
+</resources>

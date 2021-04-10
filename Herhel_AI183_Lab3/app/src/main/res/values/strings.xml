@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Herhel AI-183 Lab3</string>
+    <string name="contacts_title">Contacts</string>
+    <string name="textview_name_placeholder">Name placeholder</string>
+    <string name="textview_email_placeholder">Email placeholder</string>
+    <string name="textview_phone_placeholder">Phone placeholder</string>
+    <string name="button_add">Add</string>
+    <string name="button_take_photo">Take Photo</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="et_name">Name</string>
+    <string name="et_email">Email</string>
+    <string name="et_phone">Phone</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="contact_list_is_empty">Contact list is empty</string>
+</resources>

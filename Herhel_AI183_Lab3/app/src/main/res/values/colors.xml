@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF03A9F4</color>
+    <color name="primaryVariant">#FF039BE5</color>
+    <color name="secondary">#FFEB5C68</color>
+    <color name="secondaryVariant">#FFE63746</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="activity_background">#FFF1FAEE</color>
+    <color name="contact_card_background">#FAFAFA</color>
+</resources>
